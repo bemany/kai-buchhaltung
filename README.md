@@ -1,5 +1,9 @@
 # kai-buchhaltung — EÜR 2025
 
+> 👉 **Bist du Kai und kein Entwickler?** Dann lies bitte zuerst die einfache, jargonfreie
+> **[Anleitung für Kai](docs/ANLEITUNG-FUER-KAI.md)**. Dort steht in normaler Sprache, was du tun
+> musst – ohne Technik-Fachwörter. Der Rest dieses Dokuments ist eher für Technik-Interessierte.
+
 Werkzeugkasten zur Aufbereitung der **Einnahmenüberschussrechnung (EÜR) 2025** für Kai.
 
 > **Wichtig:** Dieses Repo ist ein **Runbook + Skripte**. Es führt die Buchhaltung nicht selbst aus,

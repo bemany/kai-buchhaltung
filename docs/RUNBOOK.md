@@ -1,5 +1,8 @@
 # RUNBOOK — EÜR 2025 für Kai
 
+> 👉 **Ohne Technik-Vorkenntnisse?** Nutze stattdessen die einfache
+> **[Anleitung für Kai](ANLEITUNG-FUER-KAI.md)**. Dieses RUNBOOK ist die technische Detailfassung.
+
 Dieses Playbook arbeitet Kai (bzw. Claude in Kais Session) Schritt für Schritt ab. Es ist auf
 **mehrere Sessions** ausgelegt, weil (a) die zwei Gmail-Postfächer nacheinander verbunden werden und
 (b) zwischendurch manuelle Exporte (Bank, Lohn) gebraucht werden. Jeder Schritt ist **idempotent** —
