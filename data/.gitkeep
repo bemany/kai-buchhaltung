@@ -1,0 +1,3 @@
+# Dieser Ordner hält die kanonischen Zwischendaten (CSV/JSON) aus Lexoffice,
+# den Bank-Exporten und der Gmail-Extraktion. Inhalte sind via .gitignore
+# vom Commit ausgeschlossen (enthalten ggf. personenbezogene/steuerliche Daten).
